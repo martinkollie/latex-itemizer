@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "1b851fd06f6a2f2a7a89",
-    "url": "/latex-itemizer/static/js/main.a3d486d5.chunk.js"
+    "revision": "3d5790725b37c3de4a8b",
+    "url": "/latex-itemizer/static/js/main.7c2acd54.chunk.js"
   },
   {
     "revision": "9e214e8d46ef596cdcb9",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/latex-itemizer/static/media/logo.cbd8b5a8.svg"
   },
   {
-    "revision": "afb4c2fa87fda45ac2cb767f483cd5ef",
+    "revision": "479ba89161221c77cf7b7c21750a6f2b",
     "url": "/latex-itemizer/index.html"
   }
 ];

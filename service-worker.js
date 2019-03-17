@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/latex-itemizer/precache-manifest.233a3758b6d6c234a380b92d8621f56a.js"
+  "/latex-itemizer/precache-manifest.7295338903ad751df8b4c2330bfbd917.js"
 );
 
 workbox.clientsClaim();
