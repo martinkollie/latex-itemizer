@@ -1,12 +1,12 @@
 {
-  "main.js": "/static/js/main.459e4cd6.chunk.js",
-  "main.js.map": "/static/js/main.459e4cd6.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-  "static/js/2.e3fea541.chunk.js": "/static/js/2.e3fea541.chunk.js",
-  "static/js/2.e3fea541.chunk.js.map": "/static/js/2.e3fea541.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.80996b50564bd9d85d3eb1ed6fae0575.js": "/precache-manifest.80996b50564bd9d85d3eb1ed6fae0575.js",
-  "service-worker.js": "/service-worker.js",
-  "static/media/logo.svg": "/static/media/logo.cbd8b5a8.svg"
+  "main.js": "/latex-itemizer/static/js/main.a3d486d5.chunk.js",
+  "main.js.map": "/latex-itemizer/static/js/main.a3d486d5.chunk.js.map",
+  "runtime~main.js": "/latex-itemizer/static/js/runtime~main.86096032.js",
+  "runtime~main.js.map": "/latex-itemizer/static/js/runtime~main.86096032.js.map",
+  "static/js/2.e3fea541.chunk.js": "/latex-itemizer/static/js/2.e3fea541.chunk.js",
+  "static/js/2.e3fea541.chunk.js.map": "/latex-itemizer/static/js/2.e3fea541.chunk.js.map",
+  "index.html": "/latex-itemizer/index.html",
+  "precache-manifest.233a3758b6d6c234a380b92d8621f56a.js": "/latex-itemizer/precache-manifest.233a3758b6d6c234a380b92d8621f56a.js",
+  "service-worker.js": "/latex-itemizer/service-worker.js",
+  "static/media/logo.svg": "/latex-itemizer/static/media/logo.cbd8b5a8.svg"
 }
