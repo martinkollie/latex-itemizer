@@ -1,12 +1,20 @@
 {
-  "main.js": "/latex-itemizer/static/js/main.5c8c9e9c.chunk.js",
-  "main.js.map": "/latex-itemizer/static/js/main.5c8c9e9c.chunk.js.map",
-  "runtime~main.js": "/latex-itemizer/static/js/runtime~main.86096032.js",
-  "runtime~main.js.map": "/latex-itemizer/static/js/runtime~main.86096032.js.map",
-  "static/js/2.e3fea541.chunk.js": "/latex-itemizer/static/js/2.e3fea541.chunk.js",
-  "static/js/2.e3fea541.chunk.js.map": "/latex-itemizer/static/js/2.e3fea541.chunk.js.map",
-  "index.html": "/latex-itemizer/index.html",
-  "precache-manifest.e4b548139eb15da1bf05d02aea92a0ed.js": "/latex-itemizer/precache-manifest.e4b548139eb15da1bf05d02aea92a0ed.js",
-  "service-worker.js": "/latex-itemizer/service-worker.js",
-  "static/media/logo.svg": "/latex-itemizer/static/media/logo.cbd8b5a8.svg"
+  "files": {
+    "main.js": "/latex-itemizer/static/js/main.a7ba4704.chunk.js",
+    "main.js.map": "/latex-itemizer/static/js/main.a7ba4704.chunk.js.map",
+    "runtime-main.js": "/latex-itemizer/static/js/runtime-main.d1221f1e.js",
+    "runtime-main.js.map": "/latex-itemizer/static/js/runtime-main.d1221f1e.js.map",
+    "static/js/2.7bdf833a.chunk.js": "/latex-itemizer/static/js/2.7bdf833a.chunk.js",
+    "static/js/2.7bdf833a.chunk.js.map": "/latex-itemizer/static/js/2.7bdf833a.chunk.js.map",
+    "index.html": "/latex-itemizer/index.html",
+    "precache-manifest.b6ad386302e3d110ecf8d1a1948bc9a6.js": "/latex-itemizer/precache-manifest.b6ad386302e3d110ecf8d1a1948bc9a6.js",
+    "service-worker.js": "/latex-itemizer/service-worker.js",
+    "static/js/2.7bdf833a.chunk.js.LICENSE.txt": "/latex-itemizer/static/js/2.7bdf833a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/latex-itemizer/static/media/logo.cbd8b5a8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1221f1e.js",
+    "static/js/2.7bdf833a.chunk.js",
+    "static/js/main.a7ba4704.chunk.js"
+  ]
 }
