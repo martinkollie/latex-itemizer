@@ -62,7 +62,7 @@ class App extends Component {
 
     render() {
         return (
-            <div className="container-fluid">
+            <div className="container">
                 <div className="row mb-3">
                     <div className="col">
                         <div className="card">
